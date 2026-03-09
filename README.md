@@ -3,6 +3,20 @@
 This repository is created for practicing and mastering FastAPI in Python.
 It focuses on building REST APIs, understanding request lifecycle, async vs sync behavior, dependency injection, authentication, and database integration.
 
+# 📂 Project Structure
+
+    app/
+    ├── api/
+    ├── core/
+    ├── models/
+    ├── schemas/
+    ├── services/
+    ├── repositories/
+    ├── utils/
+    ├── workers/
+    └── main.py
+
+  
 ## 📌 What I’m Practicing
 
 - Creating REST endpoints (CRUD)
